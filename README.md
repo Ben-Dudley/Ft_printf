@@ -1,1 +1,1 @@
-# ft_ptintf
+# ft_printf
